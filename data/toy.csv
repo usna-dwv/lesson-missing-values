@@ -1,0 +1,6 @@
+floats,strings,integers,datetimes
+4.3,abc,3,
+9.1,def,9,2020-02-01
+,def,,2020-03-01
+,abc,7,2020-04-01
+7.9,,-99,
